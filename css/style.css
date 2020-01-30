@@ -97,3 +97,34 @@ section.about p {
     font-size: 25px;
     margin-right: 10px;
 }
+
+.contact {
+    padding: 40px 0;
+}
+section.contact h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #2C3E50
+}
+section.contact li  {
+    color: #2C3E50;
+}
+section.contact .line {
+    background-color: #2C3E50;
+}
+.form-control {
+    padding: 20px 0;
+}
+label {
+    visibility: hidden;
+}
+.form-group {
+    border: none;
+    padding: 40px;
+}
+.form-group .btn {
+    margin-top: 70px;
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+}
