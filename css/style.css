@@ -38,7 +38,6 @@ li:hover {
     font-weight: bold;
 }
 .start i {
-    font-size: 40px;
     color: white;
 }
 .start p {
@@ -52,7 +51,7 @@ li:hover {
     background-color: white;
     margin-bottom: 10px;
 }
-.portfolio {
+section .portfolio {
     padding: 30px 0;
 }
 
@@ -62,7 +61,7 @@ li:hover {
 .portfolio .line {
     background-color: #2C3E50;
 }
-.portfolio i {
+.fa-star {
     font-size: 40px;
 }
 .portfolio h2 {
@@ -73,4 +72,28 @@ li:hover {
 .portfolio img {
     width: 350px;
     padding: 25px 0;
+}
+section.about {
+    background-color: #1ABC9C;
+    padding: 80px 0
+}
+section.about h2 {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+section.about p {
+    margin: 40px 0;
+    color: white;
+    font-size: 18px;
+}
+.btn {
+    background-color:#1ABC9C;
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+}
+.fa-download {
+    font-size: 25px;
+    margin-right: 10px;
 }
