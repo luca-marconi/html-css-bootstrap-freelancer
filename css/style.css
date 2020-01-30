@@ -17,7 +17,7 @@ li {
     color: white;
     font-size: 18px;
     font-weight: bold;
-    margin-right: 35px;
+
 }
 li:hover {
     color: #1ABC9C;
@@ -26,10 +26,10 @@ li:hover {
 .start {
     background-color: #1ABC9C;
     padding: 50px 0;
+    height: 600px;
 }
 .start img {
-    width: 250px;
-    vertical-align: middle;
+    width: 200px;
 }
 
 .start h1 {
@@ -47,8 +47,30 @@ li:hover {
     padding-top: 20px;
 }
 .line {
-    height: 3px;
-    width: 200px;
+    height: 4px;
+    width: 80px;
     background-color: white;
     margin-bottom: 10px;
+}
+.portfolio {
+    padding: 30px 0;
+}
+
+.portfolio li  {
+    color: #2C3E50;
+}
+.portfolio .line {
+    background-color: #2C3E50;
+}
+.portfolio i {
+    font-size: 40px;
+}
+.portfolio h2 {
+    color: #2C3E50;
+    font-size: 50px;
+    font-weight: bold;
+}
+.portfolio img {
+    width: 350px;
+    padding: 25px 0;
 }
