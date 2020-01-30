@@ -1,0 +1,27 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.nav {
+    background-color: #2C3E50;
+    padding: 35px 0;
+    line-height: 20px;
+
+}
+
+.text-logo {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
+li {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 35px;
+}
+li:hover {
+    color: #1ABC9C;
+    cursor: pointer;
+
+}
