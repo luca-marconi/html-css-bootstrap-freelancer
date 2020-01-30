@@ -5,7 +5,6 @@ body {
     background-color: #2C3E50;
     padding: 35px 0;
     line-height: 20px;
-
 }
 
 .text-logo {
@@ -23,5 +22,33 @@ li {
 li:hover {
     color: #1ABC9C;
     cursor: pointer;
+}
+.start {
+    background-color: #1ABC9C;
+    padding: 50px 0;
+}
+.start img {
+    width: 250px;
+    vertical-align: middle;
+}
 
+.start h1 {
+    color: white;
+    font-size: 65px;
+    font-weight: bold;
+}
+.start i {
+    font-size: 40px;
+    color: white;
+}
+.start p {
+    color: white;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.line {
+    height: 3px;
+    width: 200px;
+    background-color: white;
+    margin-bottom: 10px;
 }
