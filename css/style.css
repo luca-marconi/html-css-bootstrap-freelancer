@@ -19,7 +19,7 @@ li {
     font-weight: bold;
 
 }
-li:hover {
+header li:hover {
     color: #1ABC9C;
     cursor: pointer;
 }
