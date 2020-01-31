@@ -26,10 +26,10 @@ header li:hover {
 .start {
     background-color: #1ABC9C;
     padding: 130px 0;
-    height: 600px;
+    
 }
 .start img {
-    width: 200px;
+    max-width: 200px;
 }
 
 .start h1 {
