@@ -26,7 +26,7 @@ header li:hover {
 .start {
     background-color: #1ABC9C;
     padding: 130px 0;
-    
+
 }
 .start img {
     max-width: 200px;
@@ -73,6 +73,8 @@ section .portfolio {
     width: 350px;
     padding: 25px 0;
 }
+
+
 section.about {
     background-color: #1ABC9C;
     padding: 80px 0
@@ -96,7 +98,6 @@ section.about p {
 .fa-download {
     font-size: 25px;
     margin-right: 10px;
-
 }
 
 .contact {
@@ -138,7 +139,6 @@ label {
 .footer h3 {
     font-size: 30px;
     font-weight: bold;
-    padding-bottom: 20px;
 }
 
 .footer p {
@@ -148,8 +148,11 @@ label {
     color: #1ABC9C;
 }
 .footer i {
+    width: 50px;
+    height: 50px;
     font-size: 25px;
-    text-align: center;
+    position: relative;
+    right: 17px;
 }
 .copyright {
     background-color: #1A252F;
@@ -164,4 +167,7 @@ label {
     width: 50px;
     height: 50px;
     text-align: center;
+}
+.about {
+    padding: 25px 0;
 }
